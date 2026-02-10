@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const OFFICIAL_EMAIL = "aditya0250.becse24@chitkara.edu.in";
+const OFFICIAL_EMAIL = "anurag1103.be23@chitkarauniversity.edu.in";
 
 
 const isPrime = (n) => {
